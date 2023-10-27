@@ -1,12 +1,6 @@
 # Web_Scraping
-This is Web Scrapping Mini project for Car website.
+This is Web Scrapping Mini project for Movies website.
 # Project Objective:
-Main goal in this project is to search for certified Mercedes-Benz cars on the first page of www.cars.com and extract specific data for each car. The data need to collect includes:
+The aim of this mini project is to scrape data from a webpage. Specifically, we will be extracting the titles and rankings of movies from the following webpage: 
 
-1. Car Name
-2. Mileage
-3. Price
-4. Rating
-5. Review Count
-6. Dealer Name
-
+Empire Online - Best Movies: https://www.empireonline.com/movies/features/best-movies-2/.
